@@ -1,5 +1,5 @@
 
-# FE-14 & FE-15 Final Exam
+# Frontend Final Exam
 
 > ## İmtahan haqqında:
 - 5 sual və 2 saat vaxtınız var;
