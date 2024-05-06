@@ -5,8 +5,8 @@
 - 5 sual və 2 saat vaxtınız var;
 - 1 sual HTML/CSS, 2 sual JS və 2 sual React.JS üçün;
 - Hər sual 6 xala bərabərdir.
-- Bonus:  GIT ilə bağlı bonus sualımız var. Beləliklə, əgər bunu etmisinizsə, +5 xaldır
-   sizin. <br/> <br/>
+- Bonus:  GIT ilə bağlı bonus sualımız var. Beləliklə, əgər bunu etmisinizsə, +5 xal da
+   sizindir. <br/> <br/>
 
 
 ### 1. Belə bir şablon hazırlayın:
