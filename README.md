@@ -26,7 +26,7 @@
     - Input | Output
     - aBcD | AbCd
     - jAvaScRIPt | JaVAsCripT
-    - jeDAcAdemY | JEdaCaDEMy
+    - iTBAcAdemY | ItbaCaDEMy
 
 <hr/>
 <br/>
