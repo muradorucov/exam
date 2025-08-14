@@ -11,7 +11,7 @@
 
 ### 1. Belə bir şablon hazırlayın:
 
-[link](https://bg-task-14.netlify.app/)
+[link](https://css-task-14.netlify.app/)
 
 - Position istifadəsinə diqqət edilməlidir;
 - Mətnlər istəyə bağlıdır.
